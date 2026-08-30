@@ -3,4 +3,4 @@ requests
 pandas
 python-dotenv
 google-genai
-fortyguard
+
